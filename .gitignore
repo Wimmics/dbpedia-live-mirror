@@ -4,3 +4,9 @@ target/
 .idea/*
 *.dat
 *.txt
+log/
+*.log
+*.log.*
+live-data/*
+### FILE CONTAINING PWD
+mirror-live.ini
